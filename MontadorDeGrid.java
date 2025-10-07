@@ -15,7 +15,7 @@ public class MontadorDeGrid {
             for (int j = 0; j < 3; j++) {
                 System.out.print("|" + matriz[i][j]+ "|" );
             }
-            System.out.println("\n");
+            System.out.println();
         }
 
        
